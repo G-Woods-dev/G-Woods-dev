@@ -30,4 +30,4 @@ Welcome to my GitHub profile! I'm a passionate Software Developer who loves to w
 
 ## 📬 Connect with Me  
 
-[[LinkedIn](https://www.linkedin.com/in/gavin-woods-31789432a/)]
+[LinkedIn](https://www.linkedin.com/in/gavin-woods-31789432a/)
